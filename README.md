@@ -4,6 +4,8 @@ O **Sistema de Gestão de Eventos Acadêmicos** tem como principal objetivo faci
 
 Link para a página do sistema: https://rrs92.github.io/SistemaGestaoEventosAcademicos/FrontEnd/index.html
 
+Link para o video de deonstração do sistema: https://youtu.be/79lH1K17pqA?si=4ETpwXYzKj99r1_9
+
 ## **Garantia de Qualidade com Testes**  
 
 O sistema utiliza **testes unitários** e **testes de integração** para assegurar a confiabilidade, integridade e bom funcionamento. Ambos desempenham papéis complementares na validação das funcionalidades e da comunicação entre os componentes do sistema.
